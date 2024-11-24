@@ -379,6 +379,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Lingo](https://github.com/thewh1teagle/lingo) - Translate offline in every language on every platform.
 - [Linka!](https://github.com/linka-app/linka) - AI powered, easy to use, cross-platform bookmark management tool.
 - [Locus](https://github.com/Sushants-Git/locus) - Intelligent activity tracker that helps you understand and improve your focus habits.
+- [MagicMirror](https://github.com/idootop/MagicMirror) - Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you! 
 - [MBTiles Viewer](https://github.com/Akylas/mbview-rs) - MBTiles Viewer and Inspector.
 - [Metronome](https://github.com/ZaneH/metronome) - Visual metronome for Windows, Linux and macOS.
 - [Mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller.
